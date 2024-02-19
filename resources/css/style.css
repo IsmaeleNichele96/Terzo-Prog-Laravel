@@ -1,0 +1,44 @@
+.navBg-custom {
+    background-color: #47cdcd;
+
+    box-shadow: 0px 5px 5px 5px #47cdcd;
+}
+
+.form-control {
+    color: #47cdcd;
+    background-color: #47cdcd;
+}
+
+
+
+.form-control:focus {
+    color: #47cdcd !important;
+}
+
+.imgP-custom {
+    padding: 0px 140px 0px 0px;
+}
+
+.coloreScritta {
+    color: rgb(71, 205, 205);
+}
+
+.colH-custom {
+    height: 50vh;
+}
+
+.bg-img {
+    height: 100vh;
+    background-image: url(../../public/Media/img-home.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.myImgSize {
+    height: 250px;
+}
+
+.myPaddingProdottiDet {
+    padding-top: 70px;
+}
